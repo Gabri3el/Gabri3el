@@ -1,19 +1,19 @@
-<Hello everyone!!!!>	
+<Hello everyone!!!!>
 <br>
 
-- Name: Gabriel Merino Dos Santos
-- Location: São Vicente - SP, Brazil
-- Degree: Computer science (Software Developer) at UNIP
-- Contact: g_gabrielmerino@yahoo.com.br
+- <h1>Name: Gabriel Merino Dos Santos</h1>
+- <h4>Location: São Vicente - SP, Brazil</h4>
+- <h4>Degree: Computer science (Software Developer) at UNIP</h4>
+- <h4>Contact: g_gabrielmerino@yahoo.com.br</h4>
 
 <br><br>
 
---Study
+## Study
 
-Learning: Vuejs with NuxtJs ❤️
-
-
+<p>Learning: Vuejs with NuxtJs ❤️</p>
 
 
 
-Canadian Dream :canada::airplane:	
+
+
+<cite>"Canadian Dream"</cite>	 :canada::airplane: 
