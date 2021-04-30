@@ -10,7 +10,7 @@
 
 --Study
 
-Learning: Vuejs with NuxtJs S2
+Learning: Vuejs with NuxtJs ❤️
 
 
 
