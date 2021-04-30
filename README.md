@@ -8,5 +8,12 @@
 
 <br><br>
 
+--Study
+
+Learning: Vuejs with NuxtJs S2
+
+
+
+
 
 Canadian Dream :canada::airplane:	
