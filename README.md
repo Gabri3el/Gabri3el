@@ -10,7 +10,7 @@
 
 ## Study
 
-<p>Learning: Vuejs with NuxtJs ❤️</p>
+<p>Learning: Swift and ReactNative ❤️</p>
 
 
 
